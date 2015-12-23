@@ -1,12 +1,12 @@
+
+
 var init = function(){
     
 }
 
-
 var update = function(){
     
 }
-
 
 var paint = function(){
     
